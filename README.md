@@ -1,6 +1,28 @@
 # Python_Course_Projects
 
-Most of the earlier programs are self explanatory based on their file names.
+Array Challenge
+Created an array to loop through all and it includes count() and sort() methods.
+
+Dictionary Challenge
+Created a dictionary, nested a dictionary, used the get() method.
+
+For Loop Challenge
+Executed a for loop and used else keyword. Used break and continue statements. Used a range () function. 
+
+Format Challenge
+Executed a format() function.
+
+Functions Challenge 
+Created and called a function. 
+
+If Else Challenge
+Ran if/else challenges where they were false and true. 
+
+Inheritance Challenge
+Created a child class that inherits functionality from a parent class.
+
+Lambda Challenge
+Created a lambda function. 
 
 Nice or Mean
 This is a game where the user is asked for their name and then asks for input on several instances if they will choose to be 'nice' or 'mean'.
@@ -12,7 +34,19 @@ Inheritance Submission Assignment
 Created 2 classes that inherit from another class. Each "child" class has 2 of their own attributes
 
 Inheritance Challenge
-On this program I created a child class that inherits functionality from a parent class
+On this program I created a child class that inherits functionality from a parent class.
+
+Lists Challenge
+Created a list. Used a for loop. Used the append () method and concatenated two lists. 
+
+Operators Challenge
+Used multiple operators. 
+
+Random Challenge
+Displayed random number 1-100
+
+Sets Challenge
+Created a set and used the add (), remove (), and difference () methods.
 
 Polymorphism Submission Assignment
 On this assignment I created 2 classes that inherit from another class. Each child class has at least 2 of their own attributes.
