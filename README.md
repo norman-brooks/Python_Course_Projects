@@ -48,6 +48,30 @@ Displayed random number 1-100
 Sets Challenge
 Created a set and used the add (), remove (), and difference () methods.
 
+Try Except & Finally Challenge
+Executed a try block, except block and finally block.
+
+Tuples Challenge
+Created a tuple and looped through it.
+
+Type () function
+Utilized the type () function. 
+
+While Loop Challenge
+Executed a while loop. Used break, continue and else statements.
+
+Boolean Challenge
+Ran a condition in an if statement. Used the bool () and isinstance () functions. 
+
+Database Submission Assignment
+Wrote script to create a database and can add new data to it. 
+
+If Statement Challenge
+Executed an if statement. Used elif and else keywords. Made a nested if statement. 
+
+My Datetime
+Created a program that gives the current date and time. 
+
 Polymorphism Submission Assignment
 On this assignment I created 2 classes that inherit from another class. Each child class has at least 2 of their own attributes.
 There is a method function on the parent class. 
