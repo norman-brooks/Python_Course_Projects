@@ -18,3 +18,6 @@ Polymorphism Submission Assignment
 On this assignment I created 2 classes that inherit from another class. Each child class has at least 2 of their own attributes.
 There is a method function on the parent class. 
 
+Student Tracking Assignment (student.py)
+This was written to create a form to get student's information and to display the info as well as a delete button to remove students and their info
+
