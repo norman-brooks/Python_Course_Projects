@@ -12,5 +12,9 @@ Inheritance Submission Assignment
 Created 2 classes that inherit from another class. Each "child" class has 2 of their own attributes
 
 Inheritance Challenge
-On this program we create a child class that inherits functionality from a parent class
+On this program I created a child class that inherits functionality from a parent class
+
+Polymorphism Submission Assignment
+On this assignment I created 2 classes that inherit from another class. Each child class has at least 2 of their own attributes.
+There is a method function on the parent class. 
 
