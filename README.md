@@ -11,5 +11,6 @@ This assignment was to write a script that creates a database and adds new data 
 Inheritance Submission Assignment
 Created 2 classes that inherit from another class. Each "child" class has 2 of their own attributes
 
-
+Inheritance Challenge
+On this program we create a child class that inherits functionality from a parent class
 
