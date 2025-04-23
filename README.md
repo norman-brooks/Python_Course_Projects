@@ -27,10 +27,6 @@ Program designed to move files from one folder to another with the click of a bu
 Web Page Generator
 Code written to make a new function within the ParentWindow class that takes a user's input as text and then displays that custom text on the generated web page.
 
-
-
-
-
 Abstraction Submission Assignment (abstract.py)
 Code written to include one abstract method & one regular method. Has a child class that defines implementation of parent method. Has an object that utilizes
 both parent and child methods.
