@@ -24,6 +24,11 @@ This was written to create a form to get student's information and to display th
 File Transfer 
 Program designed to move files from one folder to another with the click of a button
 
+Web Page Generator
+Code written to make a new function within the ParentWindow class that takes a user's input as text and then displays that custom text on the generated web page.
+
+
+
 
 
 Abstraction Submission Assignment (abstract.py)
